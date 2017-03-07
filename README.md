@@ -1,1 +1,2 @@
-# shellpranks
+
+![](shellpranks.png)
