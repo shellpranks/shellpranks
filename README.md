@@ -1,6 +1,17 @@
 
-![](shellpranks.png)
-
+<p align="center">
+  <a href="https://github.com/shellpranks/shellpranks">
+    ![](shellpranks.png)
+  </a>
+</p>
+<p align="center">
+  a fun and safe way to prank your friends
+</p>
+<p align="center">
+  <a href="https://gitter.im/shellpranks">
+    <img src="https://badges.gitter.im/shellpranks.svg" alt="Join gitter channel">
+  </a>
+</p>
 
 ## the idea
 Wouldn't it be fun to be able to prank your haxxor friends if they are crazy enough to leave their computer unlocked without being worried that you might break their setup?
