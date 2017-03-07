@@ -11,7 +11,7 @@ We aim to create a collection of safe pranks that you can install on your friend
 
 ## our moto
 1. pranks should be safe
-1. pranks should funny
+1. pranks should be funny
 1. each prank should have a score between 0 - 7 based on how pranky it is
 1. one computer should not be able to run pranks that total above 7 points
 1. prank can only run `(7 - prank score)`  days
