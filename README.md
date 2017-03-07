@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/shellpranks/shellpranks">
-    <img src="shellpranks.png" width="300">
+    <img src="shellpranks.png" width="500">
   </a>
 </p>
 <p align="center">
